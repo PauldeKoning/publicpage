@@ -1,7 +1,6 @@
 # Paul de Koning
 I'm a software engineer from **the Netherlands** currently based in **Dublin, Ireland**
 
-**Contact**
 For any inquiries you can contact me via e-mail on **pauldekoning01@gmail.com**
 
 ### Experience
