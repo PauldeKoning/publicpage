@@ -1,13 +1,18 @@
 # Paul de Koning
 I'm a software engineer from **the Netherlands** currently based in **Dublin, Ireland**
 
-#### Experience
+**Contact**
+For any inquiries you can contact me via e-mail on **pauldekoning01@gmail.com**
+
+### Experience
+
 Since may 2023 I have been working at **Salesforce**  on an internal incident management solution with a broad impact on the company.
-Prior to my current position, I completed temporary contract work at a Dutch company working on data mappers and finished two internships of six months each.
+
+Prior to my current position, I completed temporary contract work and finished two internships of six months each.
 
 For full work experience, you can open my [LinkedIn](https://www.linkedin.com/in/paul-de-koning-b9b68415b/) page!
 
-#### Technologies
+### Technologies
 
 **Languages**
 
