@@ -11,6 +11,14 @@ Prior to my current position, I completed temporary contract work and finished t
 
 For full work experience, you can open my [LinkedIn](https://www.linkedin.com/in/paul-de-koning-b9b68415b/) page!
 
+### Projects
+
+![Ireland Driver Theory Test DTT App](logo.png) 
+
+Ireland Driver Theory Test DTT App - Learn for the Irish RSA Driver Theory Test (DTT) using official questions!
+
+Educational app built in Flutter, released in September 2025 and currently purchasable! Go to [DTT App Website](https://dekoning.ie/) for more information.
+
 ### Technologies
 
 **Languages**
